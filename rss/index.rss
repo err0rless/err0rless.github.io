@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>err0rless' lab</title><description>Just for fun</description><link>http://localhost:2368/</link><image><url>http://localhost:2368/favicon.png</url><title>err0rless' lab</title><link>http://localhost:2368/</link></image><generator>Ghost 1.19</generator><lastBuildDate>Wed, 03 Jan 2018 05:38:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>The first post</title><description>Very start</description><link>http://localhost:2368/the-first-post/</link><guid isPermaLink="false">5a4b0e048973c5640ae34e57</guid><category>Getting Started</category><dc:creator>err0rless</dc:creator><pubDate>Tue, 02 Jan 2018 04:52:59 GMT</pubDate><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;h3 id="header"&gt;Header&lt;/h3&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>err0rless' lab</title><description>Just for fun</description><link>http://localhost:2368/</link><image><url>http://localhost:2368/favicon.png</url><title>err0rless' lab</title><link>http://localhost:2368/</link></image><generator>Ghost 1.19</generator><lastBuildDate>Wed, 03 Jan 2018 05:43:53 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>First story of my ghost</title><description>&lt;div class="kg-card-markdown"&gt;&lt;h3 id="header"&gt;Header&lt;/h3&gt;
 &lt;pre&gt;&lt;code class="language-c++"&gt;#include &amp;lt;iostream&amp;gt;
 
 int main(void) {
@@ -9,7 +9,24 @@ int main(void) {
 &lt;p&gt;Quotes are in here.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Text Styling&lt;br&gt;
-Links : &lt;a href="http://localhost:2368/the-first-post/URL"&gt;Title&lt;/a&gt;&lt;br&gt;
+Links : &lt;a href="http://localhost:2368/first-story-of-my-ghost/URL"&gt;Title&lt;/a&gt;&lt;br&gt;
+Bold : &lt;strong&gt;Bold&lt;/strong&gt;&lt;br&gt;
+Italicize : &lt;em&gt;Italics&lt;/em&gt;&lt;br&gt;
+Strike-through : &lt;s&gt;text&lt;/s&gt;&lt;br&gt;
+Highlight : &lt;mark&gt;text&lt;/mark&gt;&lt;br&gt;
+Paragraphs : Line space between paragraphs&lt;br&gt;
+Line break : Add two spaces to the end&lt;/p&gt;&lt;/div&gt;</description><link>http://localhost:2368/first-story-of-my-ghost/</link><guid isPermaLink="false">5a4c6cc0b202d8219885b793</guid><dc:creator>err0rless</dc:creator><pubDate>Wed, 03 Jan 2018 05:40:36 GMT</pubDate><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;h3 id="header"&gt;Header&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-c++"&gt;#include &amp;lt;iostream&amp;gt;
+
+int main(void) {
+    std::cout &amp;lt;&amp;lt; &amp;quot;The code snippet&amp;quot; &amp;lt;&amp;lt; std::endl;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quotes are in here.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Text Styling&lt;br&gt;
+Links : &lt;a href="http://localhost:2368/first-story-of-my-ghost/URL"&gt;Title&lt;/a&gt;&lt;br&gt;
 Bold : &lt;strong&gt;Bold&lt;/strong&gt;&lt;br&gt;
 Italicize : &lt;em&gt;Italics&lt;/em&gt;&lt;br&gt;
 Strike-through : &lt;s&gt;text&lt;/s&gt;&lt;br&gt;
@@ -21,7 +38,7 @@ Quotes : &amp;gt; Quote&lt;br&gt;
 Inline Code : &lt;code&gt;alert('Hello World');&lt;/code&gt;&lt;br&gt;
 Horizontal Rule (HR) : --------&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;hihi&lt;/p&gt;
+&lt;p&gt;hi this is the next section of the post&lt;/p&gt;
 &lt;/div&gt;</content:encoded></item><item><title>Using the Ghost editor</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you&lt;/p&gt;&lt;/div&gt;</description><link>http://localhost:2368/the-editor/</link><guid isPermaLink="false">5a4ae528646b1c63fc0f927d</guid><category>Getting Started</category><dc:creator>Ghost</dc:creator><pubDate>Tue, 02 Jan 2018 01:49:33 GMT</pubDate><media:content url="https://casper.ghost.org/v1.0.0/images/writing.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/writing.jpg" alt="Using the Ghost editor"&gt;&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
